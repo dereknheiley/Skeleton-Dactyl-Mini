@@ -1,6 +1,6 @@
 *Skeletyl*
 
-This is a fork of the [Skeletyl] (https://github.com/HID-Technologies/Skeleton-Dactyl-Mini).
+This is a fork of the [Skeletyl](https://github.com/HID-Technologies/Skeleton-Dactyl-Mini) a design by HID-Technologies.
 
 # Changes / Design Goals
 - Increase pinky column stagger
@@ -9,6 +9,19 @@ This is a fork of the [Skeletyl] (https://github.com/HID-Technologies/Skeleton-D
 - (Yeah right) make a 3x5 version
 
 ![](marble_pinky_stagger.jpg)
+
+![](built.jpg)
+
+# Wiring
+For re-using dactyl manuform firmware this wiring should be backwards compatible, with some minor difference to the thumb cluster.
+![](dactyl-manuform-compatible-wiring-left.jpg)
+![](dactyl-manuform-compatible-wiring-right.jpg)
+![](dactyl-manuform-compatible-wiring-3.jpg)
+
+# Flashing
+- Install qmk toolbox
+- Press reset button on controller (short RST pin to GND pin)
+- Find hex file you want to flash and press flash in UI
 
 # Skeleton-Dactyl-Mini
 
