@@ -1,15 +1,16 @@
 *Skeletyl*
 
-This is a fork of the [Skeletyl](https://github.com/HID-Technologies/Skeleton-Dactyl-Mini) a design by HID-Technologies.
+This is a fork of the [Skeletyl](https://github.com/HID-Technologies/Skeleton-Dactyl-Mini) originally designed by HID-Technologies (further developed by BastardKB into [Skeletyl V2](https://github.com/Bastardkb/Skeletyl)).
 
 # Changes / Design Goals
 - Increase pinky column stagger
 - Reinforce case connecting pinky column
 - (Ambitious) Adjust thumb angles and position
-- (Yeah right) make a 3x5 version
+- ~~(Yeah right) make a 3x5 version~~ see [TBK Mini](https://github.com/Bastardkb/TBK-Mini)
 
 ![](marble_pinky_stagger.jpg)
-
+![](glamourshot.jpg)
+![](handposition.jpeg)
 ![](built.jpg)
 
 # Wiring
