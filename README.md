@@ -11,7 +11,7 @@ This is a fork of the [Skeletyl](https://github.com/HID-Technologies/Skeleton-Da
 ![](marble_pinky_stagger.jpg)
 ![](glamourshot.jpg)
 ![](handposition.jpeg)
-![](built.jpg)
+[![Build Timelapse](built.jpg)](https://www.youtube.com/watch?v=LfL83zMcS4I)
 
 # Wiring
 For re-using dactyl manuform firmware this wiring should be backwards compatible, with some minor difference to the thumb cluster.
