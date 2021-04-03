@@ -11,6 +11,8 @@ This is a fork of the [Skeletyl](https://github.com/HID-Technologies/Skeleton-Da
 ![](marble_pinky_stagger.jpg)
 ![](glamourshot.jpg)
 ![](handposition.jpeg)
+
+# Timelapse Build
 [![Build Timelapse](built.jpg)](https://www.youtube.com/watch?v=LfL83zMcS4I)
 
 # Wiring
